@@ -5,5 +5,5 @@ https://www.kaggle.com/datasets/datascienceai/lottery-dataset
 ## Steps
 We will discuss the following questions through testing on the data:
 1. What is the probability of winning the big prize with a single ticket?
-2. What is the probability of winning the big prize if we play 40 different tickets (or any other number)?
+2. What is the probability of winning the big prize if we buy 100 tickets?
 3. What is the probability of having at least five (or four, or three) winning numbers on a single ticket?
